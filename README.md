@@ -5,7 +5,7 @@ Small插件框架的增量包工具
 # 目录结构
 - small Small框架的源码
 - ypatchcore 用于合成增量包的模块
-- oksmall 用于下载服务器增量包生成对应
+- oksmall 用于下载服务器增量包生成对应的新版插件包
 
 # 使用：
 1：从bundle.json配置确定您要更新的插件uri
